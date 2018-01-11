@@ -1,2 +1,15 @@
 # gulp-quick-start
-Gulp quick start setting
+Gulp 3.x quick start setting
+
+Steps from this tutorial
+https://css-tricks.com/gulp-for-beginners/
+
+##### For production
+```
+gulp build
+```
+
+##### For development
+```node
+gulp
+```
