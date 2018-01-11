@@ -1,2 +1,4 @@
 # gulp-quick-start
-Gulp quick start setting
+Gulp 3.x quick start setting
+
+https://css-tricks.com/gulp-for-beginners/
